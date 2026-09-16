@@ -1,0 +1,14 @@
+# Binários gerados pelo `go build`
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Saída de teste e cobertura
+*.test
+*.out
+
+# Diretórios de ambiente/IDE
+.vscode/
+.idea/
