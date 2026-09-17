@@ -5,7 +5,7 @@
 **Laboratório pessoal de estudos em Go** — anotações práticas, algoritmos e resoluções comentadas do LeetCode.
 
 [![Go](https://img.shields.io/badge/Go-1.24-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-2%20resolvidos-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Status](https://img.shields.io/badge/status-em%20evolução-2ea44f?style=for-the-badge)](#roadmap)
 
 </div>
